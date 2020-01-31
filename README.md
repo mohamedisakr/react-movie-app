@@ -1,3 +1,7 @@
+## Remarks
+
+1. Use movie title instead of original_title for img tag alt attribute (movie name may be non english such as Ip Man)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
